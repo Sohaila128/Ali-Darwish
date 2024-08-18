@@ -56,7 +56,7 @@ function MainNavigation() {
       <div class="container">
         <!-- Logo -->
         <a href="index.html" class="navbar-brand me-auto me-lg-0">
-          <img src="./Assets/images/logo.svg" width="150" alt="Logo" />
+          <img src="./assets/images/logo.svg" width="150" alt="Logo" />
         </a>
         <!-- Navbar Toggler for Mobile View -->
         <button class="navbar-toggler text-white border-0" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasRight">
@@ -83,7 +83,7 @@ function MainNavigation() {
           <div>
             <form class="d-flex position-relative w-100">
               <input class="form-control input-search text-white w-100 bg-transparent border-0 rounded-0 border-bottom" type="search" placeholder="Search" aria-label="Search">
-              <img src="./Assets/images/search-normal.svg" alt="" class="search-icon">
+              <img src="./assets/images/search-normal.svg" alt="" class="search-icon">
             </form>
           </div>
 
@@ -100,7 +100,7 @@ function MainFooter() {
     <div class="row align-items-center">
       <div class="col-md-4">
         <a href="index.html" class="mb-3">
-          <img src="./Assets/images/logo.svg" width="150" class="img-fluid" alt="">
+          <img src="./assets/images/logo.svg" width="150" class="img-fluid" alt="">
         </a>
         <p class="text-white fs-14 mt-3"> <span class="fw-semibold"> Dr. Ali Darwish </span> Dental Center combines advanced technology with outstanding dental care. We offer a wide range of dental services to enhance your dental life health.</p>
         <ul class="list-unstyled m-0 p-0">
@@ -174,11 +174,11 @@ function MainFooter() {
           <div class="d-flex align-items-center">
             <div>
               <div class="d-flex justify-content-between">
-                <img src="./Assets/images/visa-three.png" alt="" class="img-fluid mx-1">
-                <img src="./Assets/images/tabby.png" alt="" class="img-fluid mx-1">
-                <img src="./Assets/images/paypal.png" alt="" class="img-fluid mx-1">
-                <img src="./Assets/images/master.png" alt="" class="img-fluid mx-1">
-                <img src="./Assets/images/visa.png" alt="" class="img-fluid mx-1">
+                <img src="./assets/images/visa-three.png" alt="" class="img-fluid mx-1">
+                <img src="./assets/images/tabby.png" alt="" class="img-fluid mx-1">
+                <img src="./assets/images/paypal.png" alt="" class="img-fluid mx-1">
+                <img src="./assets/images/master.png" alt="" class="img-fluid mx-1">
+                <img src="./assets/images/visa.png" alt="" class="img-fluid mx-1">
               </div>
             </div>
           </div>
@@ -201,7 +201,7 @@ function includeSidebar() {
   <!--========= start sidebar  =========-->
 <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasRight" aria-labelledby="offcanvasWithBothOptionsLabel">
   <div class="offcanvas-header bg-primary">
-    <img src="./Assets/images/logo.svg" width="80"  alt="" />
+    <img src="./assets/images/logo.svg" width="80"  alt="" />
     <button type="button" class="btn-close text-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
   </div>
   <div class="offcanvas-body bg-primary hover-links">
