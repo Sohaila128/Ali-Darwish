@@ -100,7 +100,7 @@ function MainFooter() {
     <div class="row align-items-center">
       <div class="col-md-4">
         <a href="index.html" class="mb-3">
-          <img src="assets/images/logo.svg" width="150" class="img-fluid" alt="">
+          <img src="assets/images/Logo.svg" width="150" class="img-fluid" alt="">
         </a>
         <p class="text-white fs-14 mt-3"> <span class="fw-semibold"> Dr. Ali Darwish </span> Dental Center combines advanced technology with outstanding dental care. We offer a wide range of dental services to enhance your dental life health.</p>
         <ul class="list-unstyled m-0 p-0">
@@ -201,7 +201,7 @@ function includeSidebar() {
   <!--========= start sidebar  =========-->
 <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasRight" aria-labelledby="offcanvasWithBothOptionsLabel">
   <div class="offcanvas-header bg-primary">
-    <img src="assets/images/logo.svg" width="80"  alt="" />
+    <img src="assets/images/Logo.svg" width="80"  alt="" />
     <button type="button" class="btn-close text-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
   </div>
   <div class="offcanvas-body bg-primary hover-links">
