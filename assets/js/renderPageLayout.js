@@ -105,7 +105,7 @@ function MainFooter() {
         <p class="text-white fs-14 mt-3"> <span class="fw-semibold"> Dr. Ali Darwish </span> Dental Center combines advanced technology with outstanding dental care. We offer a wide range of dental services to enhance your dental life health.</p>
         <ul class="list-unstyled m-0 p-0">
           <div class="row g-4">
-            <div class="col-lg-8 d-flex justify-content-lg-between col-6 col-md-12 justify-content-between">
+            <div class="col-lg-8 d-flex justify-content-lg-between col-12 col-md-12 justify-content-between">
               <a href="" class="text-decoration-none" target="_blank"><i class="fa-brands fa-facebook-f text-white fs-5 border social-icons rounded-circle rounded-2 link-primary"></i></a>
               <a href="" class="text-decoration-none" target="_blank"><i class="fa-brands fa-instagram  text-white fs-5 border social-icons rounded-circle rounded-2 link-primary"></i></a>
               <a href="" class="text-decoration-none" target="_blank">
@@ -186,7 +186,7 @@ function MainFooter() {
             <h6 class="fw-semibold text-white fs-14">    © 2024 Glamour Medical Center. All right reserved.</h6>
           </div>
           <div class="">
-            <span class="text-white fw-normal fs-14"> Powered By <a target="_blank" href="https://emcan-group.com/en" class="fw-semibold text-decoration-none fw-normal text-white">   Emcan Solutions</a></span>
+            <span class="text-white fw-normal fs-14"> Powered By <a target="_blank" href="https://www.linkedin.com/in/sohaila-abo-el-wafa-a2b417248" class="fw-semibold text-decoration-none fw-normal text-white">  Sohaila Abo El-Wafa</a></span>
         </div>
         
         </div>

@@ -77,7 +77,15 @@ body {
 .btn-primary:hover svg path {
   stroke: #2B386E;
 }
-
+.btn-book{
+  width: max-content !important;
+}
+@media (max-width: 768px) {
+  #datesContainer {
+      overflow-x: auto;
+      white-space: nowrap; 
+  }
+}
 .btn-close {
   filter: invert(1);
 }
