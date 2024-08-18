@@ -170,7 +170,7 @@ function MainFooter() {
     </div>
       <hr class="text-white border-white">
       <div class="text-center align-items-center">
-        <div class="d-flex align-items-center justify-content-between flex-wrap mt-4">
+        <div class="d-flex align-items-center justify-content-md-between justify-content-center flex-wrap mt-4">
           <div class="d-flex align-items-center">
             <div>
               <div class="d-flex justify-content-between">
@@ -185,7 +185,7 @@ function MainFooter() {
           <div class="mt-4">
             <h6 class="fw-semibold text-white fs-14">    © 2024 Glamour Medical Center. All right reserved.</h6>
           </div>
-          <div class="">
+          <div class="text-center">
             <span class="text-white fw-normal fs-14"> Powered By <a target="_blank" href="https://www.linkedin.com/in/sohaila-abo-el-wafa-a2b417248" class="fw-semibold text-decoration-none fw-normal text-white">  Sohaila Abo El-Wafa</a></span>
         </div>
         
